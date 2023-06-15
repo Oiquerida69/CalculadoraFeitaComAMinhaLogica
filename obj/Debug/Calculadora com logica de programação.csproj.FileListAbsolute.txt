@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\bin\Debug\Calculadora com logica de programação.exe.config
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\bin\Debug\Calculadora com logica de programação.exe
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\bin\Debug\Calculadora com logica de programação.pdb
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\obj\Debug\Calculadora com logica de programação.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\obj\Debug\Calculadora com logica de programação.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\obj\Debug\Calculadora com logica de programação.exe
+C:\Users\wendell.mcardoso\source\repos\Calculadora com logica de programação\Calculadora com logica de programação\obj\Debug\Calculadora com logica de programação.pdb
